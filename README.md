@@ -28,7 +28,7 @@
 
 ## 🎮 How to Use (In-Game Menu)
 
-1. Run the script in your Minecraft client.
+1. Run the script in your Minecraft client. To do this, you have to copy the project files to your `minescript` folder and type `\main` in your chat.
 2. An interactive menu will appear in the chat.
 3. **Controls:**
    - `[Up/Down Arrow]`: Navigate through the menu.
